@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "C For Beginners",
+    "image": "https://codelearn.io/CodeCamp/CodeCamp/Upload/Course/bf4dca390c5742bda4dbf6344e859eb9.jpg",
+    "description": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers."
+  },
+  {
+    "id": "2",
+    "name": "Become A Python Master",
+    "image": "https://www.interviewbit.com/blog/wp-content/uploads/2021/07/Python-Developer.png",
+    "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[32]Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a  language due to its comprehensive standard library.[33][34]Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions."
+  },
+  {
+    "id": "3",
+    "name": "Object Oriented Programming",
+    "image": "https://lh6.googleusercontent.com/yPsibbUh1aHOvi0U3-wtdlNpWWutbyYULv1PLkx0QlOOq81DiXVvPgvKVrtY7Ef1yZF5NLabXrHBjHL80lx9hTqR_64jGRFZdbR9FIs4LDR9RcEn1M9LX_D5i4fYKR4vNZA-dZ9R",
+    "description": "Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.OOP focuses on the objects that developers want to manipulate rather than the logic required to manipulate them. This approach to programming is well-suited for programs that are large, complex and actively updated or maintained. This includes programs for manufacturing and design, as well as mobile applications; for example, OOP can be used for manufacturing system simulation software."
+  },
+  {
+    "id": "4",
+    "name": "Introduction Javascript",
+    "image": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/introduction-to-javascript.png",
+    "description": "JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications. It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML. It is open and cross-platform."
+  },
+  {
+    "id": "5",
+    "name": "Ruby",
+    "image": "https://www.almanac.com/sites/default/files/styles/large/public/ruby-honored_member-shutterstock4c.jpg?itok=h_z5_e0O",
+    "description": "A ruby is a pinkish red to blood-red colored gemstone, a variety of the mineral corundum (aluminium oxide). Ruby is one of the most popular traditional jewelry gems and is very durable. Other varieties of gem-quality corundum are called sapphires. Ruby is one of the traditional cardinal gems, alongside amethyst, sapphire, emerald, and diamond.[3] The word ruby comes from ruber, Latin for red. The color of a ruby is due to the element chromium."
+  },
+  {
+    "id": "6",
+    "name": "C For Beginners",
+    "image": "https://codelearn.io/CodeCamp/CodeCamp/Upload/Course/bf4dca390c5742bda4dbf6344e859eb9.jpg",
+    "description": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.Our C tutorials will guide you to learn C programming one step at a time."
+  }
+]
